@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
   "name": "class-inheritance",
-=======
-  "name": "js-online-quiz-template",
->>>>>>> f16b312c1c48cd912adb3c5e6c9a9fda82fbfe8f
   "version": "1.0.0",
   "description": "Powered by ThoughtWorks School",
   "main": "app.js",
@@ -13,20 +9,12 @@
   },
   "repository": {
     "type": "git",
-<<<<<<< HEAD
     "url": "git+https://github.com/tw-online-quiz/class-inheritance.git"
-=======
-    "url": "git+https://github.com/tws-stack/git-engaged-summer-bootcamp.git"
->>>>>>> f16b312c1c48cd912adb3c5e6c9a9fda82fbfe8f
   },
   "author": "ThoughtWorks School",
   "license": "GPL-3.0",
   "bugs": {
-<<<<<<< HEAD
     "url": "https://github.com/tw-online-quiz/class-inheritance/issues"
-=======
-    "url": "https://github.com/tws-stack/git-engaged-summer-bootcamp/issues"
->>>>>>> f16b312c1c48cd912adb3c5e6c9a9fda82fbfe8f
   },
   "homepage": "https://school.thoughtworks.cn",
   "devDependencies": {
