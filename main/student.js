@@ -1,7 +1,7 @@
 const Person = require('./person.js')
 class Student extends Person{
 	constructor(name, age, klass){
-		super();
+		super(name, age);
 		this.klass = klass
 	}
 	introduce(){
