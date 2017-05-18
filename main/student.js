@@ -1,14 +1,4 @@
-class Person{
-	constructor(name, age)
-	{
-		this.name = name
-		this.age = age
-	}
-	introduce(){
-		return'My name is ' + this.name + '. I am ' +
-			this.age + ' years old.'
-	}
-}
+import * from './person.js'
 
 class Student extends Person{
 	constructor(name, age, klass){
