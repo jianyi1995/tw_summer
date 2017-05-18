@@ -5,7 +5,8 @@ class Person{
 		this.age = age
 	}
 	introduce(){
-		return'My name is ' + this.name + '. I am ' +
+		return 'My name is ' + this.name + '. I am ' +
 			this.age + ' years old.'
 	}
 }
+module.exports = Person
